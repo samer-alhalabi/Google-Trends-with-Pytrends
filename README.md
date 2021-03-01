@@ -11,5 +11,5 @@ In this repo I will show how to build a script in Python, using Pytrends to effe
 ![image](images/news_oh.png)
 
 
-For more info about how to install Pytrends and its documentation visit: https://pypi.org/project/pytrends/
+### For more info about how to install Pytrends and its documentation visit: https://pypi.org/project/pytrends/
 
