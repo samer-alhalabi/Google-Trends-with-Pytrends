@@ -11,10 +11,10 @@ In this repo I will show how to build a script in Python, using Pytrends to effe
 ![image](images/news_oh.png)
 
 #### Global Trend for Keyword = Pizza
-![image](images/w_map.png)
+![image](images/w_map.jpg)
 
 #### US Trend for Keyword = Pizza
-![image](images/us_map.png)
+![image](images/us_map.jpg)
 
 
 ### For more info about how to install Pytrends and its documentation visit: https://pypi.org/project/pytrends/
