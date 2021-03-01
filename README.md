@@ -1,4 +1,4 @@
-
+![image](images/gt.jpg)
 
 # Google Trends with Pytrends
 
